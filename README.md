@@ -6,9 +6,9 @@
 
 * **Web development:** I've built several websites using React, Node.js, and Express.
 
-I'm also passionate about open source software and I'm always looking for ways to contribute to open source projects.
+- I'm also passionate about open source software and I'm always looking for ways to contribute to open source projects.
 
-If you're interested in collaborating on a project, feel free to reach out to me on [Twitter](https://twitter.com/Ifhammhmd1) or [LinkedIn](https://www.linkedin.com/in/ifhammohamed1/).
+- If you're interested in collaborating on a project, feel free to reach out to me on [Twitter](https://twitter.com/Ifhammhmd1) or [LinkedIn](https://www.linkedin.com/in/ifhammohamed1/).
 
 - 💞️ Here are some links to my work:
 
