@@ -1,19 +1,15 @@
-<h2 align="left">Hey there! I'm 👤 Ifham Mohamed, an aspiring 💻 full-stack software engineer currently pursuing my undergraduate studies at 🏫 the University of Moratuwa. I'm deeply passionate about all things related to software development, from crafting elegant front-end interfaces to optimizing back-end databases.</h2>
+<h2 align="left">Hey there! I'm 👤 Ifham Mohamed, an aspiring 💻 full-stack software engineer currently pursuing my undergraduate studies at 🏫 the University of Moratuwa. I'm deeply passionate about all things related to software development, from crafting elegant front-end interfaces to optimizing back-end databases.</h2><br><br><br><br>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ifham1111&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ifham1111&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+</div><br><br><br>
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/8fZ99w0046mcqOZLEW/giphy.gif"  />
-
-###
-
-<div align="left">
+<div align="left" style="background-color: powderblue">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
@@ -60,8 +56,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  /><br><br><br>
 </div>
+
+###
+
+<img align="right" height="150" src="https://media.giphy.com/media/8fZ99w0046mcqOZLEW/giphy.gif"  />
 
 ###
 
@@ -81,12 +81,33 @@
   <a href="https://medium.com/@ifhammohamed0001" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
   </a>
+</div><br><br><br><br><br><br><br>
+
+
+
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31fguyuzncimtfuk4scwpfatxqxm">
+    <img alt="recently played" src="https://spotify-recently-played-readme.vercel.app/api?user=31fguyuzncimtfuk4scwpfatxqxm"  />
+  </a>
 </div>
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Ifham1111/Ifham1111/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+</div>
+
+
+
+###
+
+<br clear="both">
+
+
 
 ###
