@@ -1,4 +1,11 @@
-<h2 align="left">Hey there! I'm 👤 Ifham Mohamed, an aspiring 💻 full-stack software engineer currently pursuing my undergraduate studies at 🏫 the University of Moratuwa. I'm deeply passionate about all things related to software development, from crafting elegant front-end interfaces to optimizing back-end databases.</h2><br><br><br><br>
+<h2 align="left">Hey there! I'm 👤 Ifham Mohamed,
+  <Br/>
+  <Br/>
+  Sspiring 💻 full-stack software engineer currently pursuing my undergraduate studies at 🏫 the University of Moratuwa.
+  <Br/>
+  <Br/>
+  
+  I'm deeply passionate about all things related to software development, from crafting elegant front-end interfaces to back-end databases.</h2><br><br><br><br>
 
 ###
 
@@ -11,8 +18,6 @@
 
 <div align="left" style="background-color: powderblue">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -72,7 +77,7 @@
   <a href="https://discordapp.com/users/ifham1111" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="ifhammohamed0001@gmail.com" target="_blank">
+  <a href="ifham.info@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/mr.ifham_01/" target="_blank">
@@ -84,35 +89,5 @@
 </div><br><br><br><br><br><br><br>
 
 
-
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31fguyuzncimtfuk4scwpfatxqxm">
-    <img alt="recently played" src="https://spotify-recently-played-readme.vercel.app/api?user=31fguyuzncimtfuk4scwpfatxqxm"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-
-</div>
-
-<br>
-<br>
-
 [![](https://visitcount.itsvg.in/api?id=ifhammohamed1111&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
-
-
-###
-
-<br clear="both">
-
-
-
-###
