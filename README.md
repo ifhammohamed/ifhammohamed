@@ -1,9 +1,6 @@
 <h2 align="left">Hey there! I'm 👤 Ifham Mohamed,
   <Br/>
   <Br/>
-  Sspiring 💻 full-stack software engineer currently pursuing my undergraduate studies at 🏫 the University of Moratuwa.
-  <Br/>
-  <Br/>
   
   I'm deeply passionate about all things related to software development, from crafting elegant front-end interfaces to back-end databases.</h2><br><br><br><br>
 
